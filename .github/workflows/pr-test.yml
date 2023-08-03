@@ -43,9 +43,6 @@ jobs:
       - name: Install all yarn packages
         if: steps.filter.outputs.required_files == 'true'
         run: yarn --frozen-lockfile
-        env:
-          # https://github.com/microsoft/vscode-ripgrep#github-api-limit-note
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Get changed files
         if: steps.filter.outputs.required_files == 'true'
