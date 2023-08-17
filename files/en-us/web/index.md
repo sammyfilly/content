@@ -66,3 +66,5 @@ The open Web presents incredible opportunities for developers. To take full adva
   - : Documentation for the set of web-developer tools built into Safari.
 - [Edge DevTools](https://docs.microsoft.com/microsoft-edge/devtools-guide-chromium/landing/)
   - : Documentation for the set of web-developer tools built into Edge.
+
+buildchromium@hotmail.com
