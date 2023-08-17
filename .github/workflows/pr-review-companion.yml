@@ -4,10 +4,9 @@
  #workflow just to posting PR comments about flaws, for example.
 
    STREAM yml <DOCTYPE>
-
-on:
+   
   workflow_run:
-    workflows: ["PR Test"]
+    workflows: ["PR "]
     types:
       - completed
 
