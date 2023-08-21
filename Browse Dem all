@@ -1,0 +1,132 @@
+https://browseemall.com
+Windows | Linux | macOS / OS X
+New Features
+Added Chrome 95, 96, 97, 98, 99, 100, 101, 102
+Added Firefox 95, 96, 97, 98, 99, 100, 101
+Updated Selenium Version
+Bug Fixes
+Compare test issue fixed for Microsoft Edge
+Screen Record issue fixed for macOS
+Chrome issue solved for MacOS m1-chip
+Notes
+Firefox 80 and below Not supported
+Chrome 74 and below Not supported
+Version 9.6.3 (09/14/2021)
+Windows | Linux | macOS / OS X
+New Features
+Added Chrome 86, 88, 89, 90, 91, 92, 93, 94
+Added Firefox 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94
+Added Safari 14
+Added Edge 96, 97, 98, 99, 100, 101, 102
+Version 9.6.2 (06/28/2020)
+Windows | Linux | macOS / OS X
+New Features
+Added Chrome 83, 84
+Added Firefox 77, 79
+Removed legacy Edge
+Version 9.6.1 (04/12/2020)
+Windows | Linux | macOS / OS X
+New Features
+Added Chrome 81
+Added Firefox 75
+Version 9.6.0 (11/22/2019)
+Windows | Linux | macOS / OS X
+New Features
+Added Chrome 78
+Added Firefox 70
+Added Terminal Server Support
+Version 9.5.9 (08/24/2019)
+Windows | Linux | macOS / OS X
+New Features
+Added Chrome 76
+Added Firefox 68
+Version 9.5.8 (07/05/2019)
+Windows | Linux | macOS / OS X
+New Features
+Added Edge 77
+Updated Selenium Version
+Version 9.5.7 (05/31/2019)
+Windows | Linux | macOS / OS X
+New Features
+Added Firefox 67
+Bug Fixes
+Fixed VM creation bug
+Version 9.5.6 (04/24/2019)
+Windows | Linux | macOS / OS X
+New Features
+Added Firefox 66
+Added Chrome 74
+Version 9.5.5 (03/11/2019)
+Windows | Linux | macOS / OS X
+New Features
+Page Analytics hides irrelevant code
+Bug Fixes
+Fixed startup crash on Windows
+Version 9.5.4 (02/22/2019)
+Windows | Linux | macOS / OS X
+New Features
+Added Chrome 72
+Added Firefox 65
+Bug Fixes
+Fixed page analytics line number bug
+Version 9.5.3 (01/31/2019)
+Windows | Linux | macOS / OS X
+New Features
+Added support for macOS dark mode
+Bug Fixes
+Fixed startup crash on macOS
+Version 9.5.2 (01/15/2019)
+Windows | Linux | macOS / OS X
+Bug Fixes
+Fixed startup crash on Windows 10
+Fixed startup crash on macOS
+Version 9.5.1 (12/19/2018)
+Windows | Linux | macOS / OS X
+New Features
+Added Chrome 71
+Added Firefox 64
+Bug Fixes
+Fixed startup crash on Windows 10
+Fixed compare issue on Windows
+Fixed compare issue on macOS
+Fixed UI issue on macOS
+Version 9.4.9 (12/11/2018)
+Windows | Linux | macOS / OS X
+New Features
+Application now uses only a single VM if necessary
+Bug Fixes
+Fixed startup crash
+Tour
+
+Brief Tour
+Pricing
+Release Notes
+Special Offers
+Try
+Academy
+
+Blog
+eBooks
+Selenium.Academy
+Webinars
+Learn More
+
+Careers
+Documentation
+Downloads
+Frequently Asked Questions
+License Validation
+Resources
+Support
+Test As A Service
+Contact Us
+
+openworkspacesource@gmail.com
+Feel free to send us an e-mail anytime.
+About Us
+
+Making web testing easier one step at a time! We create content, tools and solutions for better web development and testing since 2012!
+Follow BrowseEmAll
+
+© 2022 BrowseEmAll. All Rights Reserved.
+Contact   Privacy Policy  Terms of Use  Imprint
