@@ -213,9 +213,8 @@ async function startCapture() {
   logElem.innerHTML = "";
 
   try {
-    videoElem.srcObject = await navigator.mediaDevices.getDisplayMedia(
-      displayMediaOptions,
-    );
+    videoElem.srcObject =
+      await navigator.mediaDevices.getDisplayMedia(displayMediaOptions);
     dumpOptionsInfo();
   } catch (err) {
     console.error(err);
